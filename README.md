@@ -23,7 +23,7 @@
 <br>
   <table align="center">
     <th><a href="https://linkedin.com/in/sachinthokal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachinthokal" height="30" width="40" /></a></th>
-    <th><a href="https://instagram.com/https://www.instagram.com/sachin_thokal_patil?igsh=mzrqadzvmjnrn2n2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sachin_thokal_patil/#" height="30" width="40" /></a></th>
+    <th><a href="https://www.instagram.com/sachin_thokal_patil/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Insta" height="30" width="40" /></a></th>
      <th> <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" height="30" width="40" /></a></th>
     </table>
 <hr>
